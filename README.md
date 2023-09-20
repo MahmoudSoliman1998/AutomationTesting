@@ -1,2 +1,42 @@
-# AutomationTesting
-Convert the manual testing into Automated Test using SHAFT Engine on nopEcommerceDemoStore project
+# nopCommerce demo store 
+
+## *Mahmoud Soliman*
+
+**Automation testing** Apply the manual testing to be automated using SHAFT Engine.
+
+Time spent: **X** hours spent in total
+
+## Functionality 
+
+The following **required** functionality is completed:
+
+* [ ] User able to access the Web Application (Smoke testing).
+* [ ] User able to create a new accout (Registration Page).
+* [ ] User able to add product to cart (Add to cart).
+* [ ] User able to login with valid account (Login Page). 
+
+The following **extensions** are implemented:
+
+* [ ] User able to access the shopping cart.
+* [ ] User able to update the shopping cart.
+* [ ] User able to continue shopping.
+* [ ] User able to Estimate shipping.
+* [ ] User able to Checkout as a register.
+* [ ] User able to Checkout as a guest.
+* [ ] User able to Logout.
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+## Notes
+
+Describe any challenges encountered while building the app.
+
+## License
+
+    Copyright [2023] [Mahmoud Soliman]
