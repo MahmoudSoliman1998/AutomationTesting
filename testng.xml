@@ -1,0 +1,11 @@
+<suite name="Suite1">
+    <test name="myTest">
+        <classes>
+            <class name="gui.phptravels.tests.SignUp_POM">
+                <methods>
+                    <include name="userSignUpTest"/>
+                </methods>
+            </class>>
+        </classes>
+    </test>
+</suite>

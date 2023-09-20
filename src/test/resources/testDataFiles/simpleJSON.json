@@ -1,0 +1,8 @@
+{
+  "baseURL": "https://phptravels.net/",
+  "firstName": "Mahmoud",
+  "lastName": "Soliman",
+  "country":"Egypt",
+  "emailAddress": "test123@test.com",
+  "passwordField": "12345678asd"
+}

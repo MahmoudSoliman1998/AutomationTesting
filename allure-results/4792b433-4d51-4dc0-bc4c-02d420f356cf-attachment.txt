@@ -1,0 +1,73 @@
+[INFO ] 2023-09-20 14:25:58.942 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                                    Powered by [1mSHAFT v.7.3.20230829[22m                                                    
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-09-20 14:26:13.239 [main] ReportManager - Loaded OpenCV "opencv_java470".
+[INFO ] 2023-09-20 14:26:13.239 [main] ReportManager - Initializing Allure Reporting Environment...
+[INFO ] 2023-09-20 14:26:14.214 [main] ReportManager - Initializing Extent Reporting Environment...
+[INFO ] 2023-09-20 14:26:15.711 [main] ReportManager - Initializing Summary Reporting Environment...
+[INFO ] 2023-09-20 14:26:16.336 [main] Utils - [TestNG] Running:
+  C:\Users\ahmed\AppData\Local\JetBrains\IdeaIC2023.2\temp-testng-customsuite.xml
+
+[INFO ] 2023-09-20 14:26:16.386 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                             Starting execution of suite setup configuration method                                             
+                                          'com.shaft.listeners.internal.ConfigurationHelper.suiteSetup'                                          
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-09-20 14:26:16.701 [main] ReportManager - Initializing Important Links...
+[INFO ] 2023-09-20 14:26:16.713 [main] ReportManager - Initializing Properties...
+[INFO ] 2023-09-20 14:26:16.923 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                                Starting execution of set up configuration method                                                
+                                                'gui.nopCommerceDemoStore.tests.SignUp_POM.setUP'                                                
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-09-20 14:26:16.979 [main] ReportManager - Setting "targetOperatingSystem" property with "windows".
+[INFO ] 2023-09-20 14:26:17.009 [main] ReportManager - Capabilities {acceptInsecureCerts: true, browserName: chrome, goog:chromeOptions: {args: [--start-maximized, --remote-allow-origins=*, --enable-automation, --disable-background-timer-..., --disable-backgrounding-occ..., --disable-features=Calculat..., --disable-hang-monitor, --disable-domain-reliability, --disable-renderer-backgrou..., --disable-features=Autofill..., --metrics-recording-only, --no-first-run, --no-default-browser-check, --silent-debugger-extension..., --disable-extensions, --disable-component-extensi..., --disable-dev-shm-usage, --disable-features=MediaRouter, --disable-features=Translate, --disable-ipc-flooding-prot..., --disable-background-networ..., --mute-audio, --disable-breakpad, --ignore-certificate-errors, --disable-device-discovery-..., --force-color-profile=srgb, --hide-scrollbars, --host-resolver-rules, --no-pings, --disable-features=AvoidUnn..., --disable-features=Certific..., --disable-sync, --disable-features=Optimiza..., --disable-features=DialMedi..., --disable-features=GlobalMe..., --disable-features=Improved..., --disable-features=LazyFram..., --disable-field-trial-config, --enable-features=NetworkSe..., --enable-features=NetworkSe..., --enable-use-zoom-for-dsf, --log-net-log, --net-log-capture-mode, --disable-client-side-phish..., --disable-default-apps, --disable-features=Interest...], extensions: [], prefs: {download.default_directory: C:\Users\ahmed\IdeaProjects..., download.prompt_for_download: false, profile.default_content_settings.popups: 0}}, pageLoadStrategy: none, timeouts: {pageLoad: 60000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: true}
+[INFO ] 2023-09-20 14:26:17.012 [main] ReportManager - Attempting to run locally on: "windows | Chrome".
+[INFO ] 2023-09-20 14:26:17.012 [main] ReportManager - Identifying OS/Driver combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time...
+[WARN ] 2023-09-20 14:26:44.269 [main] ReportManager - Sep 20, 2023 2:26:44 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+[WARN ] 2023-09-20 14:26:44.270 [main] ReportManager - WARNING: Unable to find an exact match for CDP version 116, so returning the closest version found: 115
+[INFO ] 2023-09-20 14:26:44.462 [main] ReportManager - Successfully Opened: "windows | Chrome".
+[INFO ] 2023-09-20 14:26:44.859 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                       Test Method: 'gui.nopCommerceDemoStore.tests.SignUp_POM.addToCart'                                       
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-09-20 14:26:45.121 [main] ReportManager - Target URL: "https://demo.nopcommerce.com/"
+[INFO ] 2023-09-20 14:26:45.164 [main] ReportManager - Initial URL: "about:blank"
+[INFO ] 2023-09-20 14:26:49.053 [main] ReportManager - Navigate to url "https://demo.nopcommerce.com/".
+[INFO ] 2023-09-20 14:26:49.767 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2023-09-20 14:26:50.034 [main] ReportManager - Click "By.xpath: //*[@data-productid='18']/div[2]/div[3]/div[2]".
+[INFO ] 2023-09-20 14:26:51.240 [main] ReportManager - Attempting to getAttribute "hidden" from elementLocator "By.id: bar-notification".
+[INFO ] 2023-09-20 14:26:51.356 [main] ReportManager - Get attribute from "By.id: bar-notification".
+[INFO ] 2023-09-20 14:26:51.357 [main] ReportManager - Expected "null", and actual "null"
+[INFO ] 2023-09-20 14:26:58.721 [main] ReportManager - Verification "ValidateElementAttribute" PASSED. Expected "Value Should be 'null' for the 'hidden' attribute, element locator 'By.id: bar-notification'" and Actual "null". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[INFO ] 2023-09-20 14:26:58.797 [main] ReportManager - Successfully created attachment 'Screenshot - 1695212813569_addToCart_ValidateElementAttribute_passed'
+[INFO ] 2023-09-20 14:26:58.974 [main] ReportManager - Get text from "By.id: bar-notification".
+[INFO ] 2023-09-20 14:26:58.981 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: addToCart'
+[INFO ] 2023-09-20 14:26:58.981 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                            Finished Execution of Test Method: 'gui.nopCommerceDemoStore.tests.SignUp_POM.addToCart'                            
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-09-20 14:26:59.169 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                              Starting execution of tear down configuration method                                              
+                                              'gui.nopCommerceDemoStore.tests.SignUp_POM.tearDown'                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-09-20 14:27:03.575 [main] ReportManager - Successfully Closed Driver.
+[INFO ] 2023-09-20 14:27:03.595 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                           Starting execution of engine teardown configuration method                                           
+                                        'com.shaft.listeners.internal.ConfigurationHelper.engineTeardown'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-09-20 14:27:03.596 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Execution log'
+[INFO ] 2023-09-20 14:27:03.597 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "target/logs/log4j.log"".
+[INFO ] 2023-09-20 14:27:03.597 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "target/logs/log4j.log"".

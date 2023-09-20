@@ -1,0 +1,18 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                       Test Method: 'gui.nopCommerceDemoStore.tests.SignUp_POM.addToCart'                                       
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Target URL: "https://demo.nopcommerce.com/" @20-09-2023 14:26:45.0121 PM
+[ReportManager] Initial URL: "about:blank" @20-09-2023 14:26:45.0164 PM
+[ReportManager] Navigate to url "https://demo.nopcommerce.com/". @20-09-2023 14:26:49.0045 PM
+[ReportManager] Moved the mouse to the middle of the element. @20-09-2023 14:26:49.0767 PM
+[ReportManager] Click "By.xpath: //*[@data-productid='18']/div[2]/div[3]/div[2]". @20-09-2023 14:26:50.0034 PM
+[ReportManager] Attempting to getAttribute "hidden" from elementLocator "By.id: bar-notification". @20-09-2023 14:26:51.0240 PM
+[ReportManager] Get attribute from "By.id: bar-notification". @20-09-2023 14:26:51.0356 PM
+[ReportManager] Expected "null", and actual "null" @20-09-2023 14:26:51.0357 PM
+[ReportManager] Verification "ValidateElementAttribute" PASSED. Expected "Value Should be 'null' for the 'hidden' attribute, element locator 'By.id: bar-notification'" and Actual "null". Comparison Type "EQUALS". Validation Type "POSITIVE". @20-09-2023 14:26:58.0720 PM
+[ReportManager] Verification Passed: The Element located by "By.id: bar-notification" is visible, hidden attribute is equal to "null". @20-09-2023 14:26:58.0721 PM
+[ReportManager] Successfully created attachment 'Screenshot - 1695212813569_addToCart_ValidateElementAttribute_passed' @20-09-2023 14:26:58.0796 PM
+[ReportManager] Get text from "By.id: bar-notification". @20-09-2023 14:26:58.0973 PM
