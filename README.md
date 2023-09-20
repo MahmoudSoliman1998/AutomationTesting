@@ -10,10 +10,10 @@ Time spent: **X** hours spent in total
 
 The following **required** functionality is completed:
 
-* [ ] User able to access the Web Application (Smoke testing).
-* [ ] User able to create a new accout (Registration Page).
-* [ ] User able to add product to cart (Add to cart).
-* [ ] User able to login with valid account (Login Page). 
+* [x] User able to access the Web Application (Smoke testing).
+* [x] User able to create a new accout (Registration Page).
+* [x] User able to add product to cart (Add to cart).
+* [x] User able to login with valid account (Login Page). 
 
 The following **extensions** are implemented:
 
