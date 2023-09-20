@@ -1,0 +1,18 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                     Test Method: 'gui.nopCommerceDemoStore.tests.SignUp_POM.testLoginPage'                                     
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/simpleJSON.json"". @20-09-2023 17:14:08.0492 PM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/simpleJSON.json"". @20-09-2023 17:14:08.0493 PM
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/simpleJSON.json"". @20-09-2023 17:14:15.0541 PM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/simpleJSON.json"". @20-09-2023 17:14:15.0542 PM
+[ReportManager] Moved the mouse to the middle of the element. @20-09-2023 17:14:16.0157 PM
+[ReportManager] Click "Log in". @20-09-2023 17:14:16.0245 PM
+[ReportManager] Type "test123@test.com" into "By.id: Email". @20-09-2023 17:14:17.0792 PM
+[ReportManager] Type "223334444" into "Password:". @20-09-2023 17:14:18.0017 PM
+[ReportManager] Moved the mouse to the middle of the element. @20-09-2023 17:14:18.0241 PM
+[ReportManager] Click "Remember me?". @20-09-2023 17:14:18.0296 PM
+[ReportManager] Moved the mouse to the middle of the element. @20-09-2023 17:14:18.0538 PM
+[ReportManager] Click "LOG IN". @20-09-2023 17:14:18.0590 PM
