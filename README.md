@@ -25,13 +25,6 @@ The following **extensions** are implemented:
 * [ ] User able to Checkout as a guest.
 * [ ] User able to Logout.
 
-## Video Walkthrough
-
-Here's a walkthrough of implemented:
-
-## Notes
-
-Describe any challenges encountered while building the app.
 
 ## License
 
